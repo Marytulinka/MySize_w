@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Size</string>
+
+    <string name="about_name">My size</string>
+    <string name="about_version">version 1.0</string>
+    <string name="action_settings">Settings</string>
+    <string name="about_title">О программе</string>
+    <string name="about_disc"><p align="justify">Приложение поможет Вам подобрать нужный размер одежды, и обеспечит доступ к инфомрации в любое удобно для Вас время.\nВведите свои параметры в форму рассчета - узнайте свой размер.</p></string>
+</resources>
